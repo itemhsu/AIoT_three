@@ -52,6 +52,8 @@ About Tensorflow
 * Tensorflow lite
   <img width="789" alt="image" src="https://github.com/itemhsu/AIoT_three/assets/25599185/313a7449-5a9d-4b64-ad62-a1ce83e7e498">
 
+<img width="686" alt="image" src="https://github.com/itemhsu/AIoT_three/assets/25599185/7f47a6e8-1b76-4ab0-bcd9-acc69e995ee4">
+
 * Tensorflow micro
 
 
