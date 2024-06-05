@@ -49,6 +49,12 @@ idf.py build
 About Tensorflow
 ------------
 * Tensorflow
+  <img width="754" alt="image" src="https://github.com/itemhsu/AIoT_three/assets/25599185/114a8de1-478b-4569-a708-f66a3a43daa6">
+  <img width="499" alt="image" src="https://github.com/itemhsu/AIoT_three/assets/25599185/d095e23e-1306-4eed-ae2d-dbd5ca2aae6b">
+  <img width="735" alt="image" src="https://github.com/itemhsu/AIoT_three/assets/25599185/d1ddf900-aa76-4de4-af65-65dee0aa6f94">
+
+
+
 * Tensorflow lite
   <img width="789" alt="image" src="https://github.com/itemhsu/AIoT_three/assets/25599185/313a7449-5a9d-4b64-ad62-a1ce83e7e498">
 
