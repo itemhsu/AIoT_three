@@ -64,6 +64,7 @@ About Tensorflow
 <img width="772" alt="image" src="https://github.com/itemhsu/AIoT_three/assets/25599185/7399a010-68cc-40ee-947c-fb597e9e565e">
 
 * Tensorflow micro
+![image](https://github.com/itemhsu/AIoT_three/assets/25599185/6159352a-cf2d-45c1-b66a-2ed386141c0b)
 
 
 建構範例 2 : micro_speech
