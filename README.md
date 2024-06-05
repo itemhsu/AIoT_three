@@ -54,6 +54,8 @@ About Tensorflow
 
 <img width="686" alt="image" src="https://github.com/itemhsu/AIoT_three/assets/25599185/7f47a6e8-1b76-4ab0-bcd9-acc69e995ee4">
 
+<img width="772" alt="image" src="https://github.com/itemhsu/AIoT_three/assets/25599185/7399a010-68cc-40ee-947c-fb597e9e565e">
+
 * Tensorflow micro
 
 
