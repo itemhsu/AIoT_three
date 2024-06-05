@@ -52,6 +52,7 @@ About Tensorflow
   <img width="754" alt="image" src="https://github.com/itemhsu/AIoT_three/assets/25599185/114a8de1-478b-4569-a708-f66a3a43daa6">
   <img width="499" alt="image" src="https://github.com/itemhsu/AIoT_three/assets/25599185/d095e23e-1306-4eed-ae2d-dbd5ca2aae6b">
   <img width="735" alt="image" src="https://github.com/itemhsu/AIoT_three/assets/25599185/d1ddf900-aa76-4de4-af65-65dee0aa6f94">
+![image](https://github.com/itemhsu/AIoT_three/assets/25599185/67db8b2b-662b-4d96-95cb-595900a29774)
 
 
 
