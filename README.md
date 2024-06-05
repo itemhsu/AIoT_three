@@ -17,6 +17,7 @@ AIoT class three
 
 在 ESP-IDF 專案中執行以下命令來安裝此元件：
 ```
+cd esp-idf
 idf.py add-dependency "esp-tflite-micro"
 ```
 
