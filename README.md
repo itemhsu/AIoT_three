@@ -9,7 +9,8 @@ AIoT class three
 依照 ESP-IDF 入門指南的說明設定工具鏈和 ESP-IDF 本身。接下來的步驟假設此安裝成功且 IDF 環境變數已設定。具體來說，
 設定 IDF_PATH 環境變數
 ```
-. .source
+install.sh
+. .export.sh
 ```
 
 使用組件
