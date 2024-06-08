@@ -149,3 +149,7 @@ idf.py build
 ```
 scripts/sync_from_tflite_micro.sh
 ```
+學習資源
+------------
+https://dejazzer.com/eece4710/
+https://dejazzer.com/eece4710/index.html#3_resources
