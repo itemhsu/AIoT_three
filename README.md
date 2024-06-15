@@ -95,6 +95,12 @@ About ESP-NN
 | ESP32     |   Person Detection      |     4084ms      |    380ms    |  240MHz   |
 | ESP32-C3  |   Person Detection      |     3355ms      |    426ms    |  160MHz   |
 
+#### 已支持的算子
+TensorFlow Lite Micro 目前仅支持有限的 TensorFlow 算子，因此可运行的模型也有所限制。Google 正致力于在参考实现和针对特定结构的优化方面扩展算子支持。Arm 的 CMSIS-NN 开源加速库也为算子的支持和优化提供了另一种可能。
+已支持的算子在文件
+```
+https://github.com/tensorflow/tensorflow/blob/5e0ed38eb746f3a86463f19bcf7138a959ddb2d4/tensorflow/lite/micro/all_ops_resolver.cc
+```
 
 ### Kernelwise performance for s8 versions:
 
